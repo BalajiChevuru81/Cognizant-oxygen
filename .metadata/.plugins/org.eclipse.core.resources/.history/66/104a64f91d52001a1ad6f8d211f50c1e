@@ -1,0 +1,5 @@
+package jbr.springmvc.daohibernate;
+
+public class UserHibernateDao {
+
+}

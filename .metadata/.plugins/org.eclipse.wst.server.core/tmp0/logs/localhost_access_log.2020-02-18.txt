@@ -1,0 +1,10 @@
+127.0.0.1 - - [18/Feb/2020:11:39:52 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:11:39:53 +0530] "GET /springmvc-helloworld/ HTTP/1.1" 200 220
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:11:40:03 +0530] "POST /springmvc-helloworld/hello HTTP/1.1" 200 403
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:11:40:04 +0530] "GET /springmvc-helloworld/home.jsp HTTP/1.1" 200 456
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:11:40:07 +0530] "GET /springmvc-helloworld/register HTTP/1.1" 200 3646
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:11:40:08 +0530] "GET /springmvc-helloworld/home.jsp HTTP/1.1" 200 456
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:11:40:10 +0530] "GET /springmvc-helloworld/login HTTP/1.1" 200 1846
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:11:45:16 +0530] "GET /springmvc-helloworld/home.jsp HTTP/1.1" 200 456
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:11:45:18 +0530] "GET /springmvc-helloworld/register HTTP/1.1" 200 3646
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:11:45:19 +0530] "GET /springmvc-helloworld/home.jsp HTTP/1.1" 200 456

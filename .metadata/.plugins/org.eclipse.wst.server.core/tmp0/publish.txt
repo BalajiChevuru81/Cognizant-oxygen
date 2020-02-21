@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Feb 18 11:39:40 IST 2020
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Del\\.m2\\repository\\org\\springframework\\spring-web\\5.1.1.RELEASE\\spring-web-5.1.1.RELEASE.jar=WEB-INF/lib/spring-web-5.1.1.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Del\\.m2\\repository\\org\\springframework\\spring-web\\4.3.2.RELEASE\\spring-web-4.3.2.RELEASE.jar=WEB-INF/lib/spring-web-4.3.2.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Del\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\9.0.12\\tomcat-jasper-9.0.12.jar=WEB-INF/lib/tomcat-jasper-9.0.12.jar

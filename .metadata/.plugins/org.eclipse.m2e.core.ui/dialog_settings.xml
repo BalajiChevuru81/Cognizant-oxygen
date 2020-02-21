@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\Cognizant oxygen\SpringExample\src\main\java\com\mkyong\common\App.java"/>
+			<item value="E:\Cognizant oxygen\MySpring\src\main\java\com\cts\project\App.java"/>
+			<item value="E:\Cognizant oxygen\SpringMVCTextField\src\main\webapp\index.jsp"/>
+			<item value="E:\Cognizant oxygen\SpringMVCTextField\src\main\java\com\javatpoint\ReservationController.java"/>
+			<item value="E:\Cognizant oxygen"/>
+			<item value="E:\Cognizant oxygen\SpringPro"/>
+			<item value="E:\Cognizant oxygen\SpringPro\src\comp\SpringNew.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.cts.mvcproject.SpringMvcMaven"/>
+			<item value="com.cts.project.SpringMvcMavin"/>
+			<item value="com.cts.project"/>
+			<item value="com.cts.project.MySpring"/>
+			<item value="com.cts.project.MyspringPro"/>
+		</list>
+		<list key="groupId">
+			<item value="com.cts.mvcproject"/>
+			<item value="com.cts.project"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringMvcMaven"/>
+			<item value="SpringMvcMavin"/>
+			<item value="MySpring"/>
+			<item value="MyspringPro"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

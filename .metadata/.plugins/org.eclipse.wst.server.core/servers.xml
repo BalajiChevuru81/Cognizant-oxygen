@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="4">
-    <list key="modules" value0="def::org.eclipse.jst.jee.server:def::jst.web::3.1" value1="MyNewProject::org.eclipse.jst.jee.server:MyNewProject::jst.web::3.1" value2="Login::org.eclipse.jst.jee.server:Login::jst.web::3.1"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="16">
+    <list key="modules" value0="servletpro::org.eclipse.jst.jee.server:servletpro::jst.web::3.1" value1="ServletRequest::org.eclipse.jst.jee.server:ServletRequest::jst.web::3.1" value2="MyNewProject::org.eclipse.jst.jee.server:MyNewProject::jst.web::3.1" value3="MySpring::org.eclipse.jst.j2ee.server:MySpring::jst.web::2.3" value4="springmvc-helloworld::org.eclipse.jst.j2ee.server:springmvc-helloworld::jst.web::2.4" value5="SpringMVCTextField::org.eclipse.jst.j2ee.server:SpringMVCTextField::jst.web::2.3"/>
   </server>
 </servers>

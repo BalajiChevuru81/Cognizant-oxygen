@@ -1,0 +1,8 @@
+package com.cts.dao;
+
+import com.cts.model.Login;
+import com.cts.model.User;
+public interface UserDao {
+  void register(User user);
+  User validateUser(Login login);
+}
